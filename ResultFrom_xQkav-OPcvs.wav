@@ -3,6 +3,8 @@
 # properties=[pitch, prominences.shape[0], prominences[ind]] #frequency, number of peaks, prominence of the most prom peak
 # Compare this to something known to help decide if "a note is real"
 
+# result:  https://oracor.xyz/xQkav-OPcvs.html  # unless the site structure changed
+
 
 0.0 408.0 R [408.3333333333333, 16, 1.7725302404752745]
 0.04 408.0 R [408.3333333333333, 16, 1.7451247132952359]
